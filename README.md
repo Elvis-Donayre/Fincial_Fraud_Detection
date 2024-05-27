@@ -39,7 +39,7 @@ Then, upload it to the notebook.ipynb and start deploying the project.
 
 ### **Status of the project**  🚉
 
-The project is currently being built in collaboration with Victor Carracedo, Elvis Donayre and Alexangel Bracho.
+The project is currently being built in collaboration with Victor Carracedo and Alexangel Bracho.
 
 ### **Contributions**  ✍️
 
