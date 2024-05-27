@@ -1,5 +1,5 @@
 # **Fraud detection**  📘
-![database with api](ima/frauddetection.png)
+![](https://github.com/Elvis-Donayre/Fincial_Fraud_Detection/blob/main/frauddetection.png)
 
 ### **Description**  🗒️
 
