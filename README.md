@@ -1,4 +1,4 @@
-# **Fraud detection**  📘
+# **Financial Fraud detection**  📘
 ![](https://github.com/Elvis-Donayre/Fincial_Fraud_Detection/blob/main/frauddetection.png)
 
 ### **Description**  🗒️
